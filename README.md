@@ -56,7 +56,7 @@ Features:
 - 📍 Location: Lajeado, RS – Brazil  
 - 📧 Email: gustavorizzonklein@email.com  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/gustavorizzonklein/](#)  
-- 💻 GitHub: [[github.com/gustavoklein](https://github.com/GustavoRizzonKlein)](https://github.com/GustavoRizzonKlein)
+- 💻 GitHub: [[github.com/gustavoklein](https://github.com/GustavoRizzonKlein)]
 
 ---
 
