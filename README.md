@@ -19,11 +19,6 @@ Atualmente, estou me aprofundando em **Java**, **lógica de programação** e **
 🚀 **Objetivo**
 Evoluir constantemente como desenvolvedor, aplicando boas práticas e criando soluções eficientes.
 
-📫 **Contato**
-- LinkedIn: [https://www.linkedin.com/in/gustavorizzonklein/](https://www.linkedin.com/in/gustavorizzonklein/)  
-- E-mail: gustavorizzonklein@gmail.com
-
-
 ---
 
 ## 💼 Professional Experience
@@ -33,17 +28,6 @@ Evoluir constantemente como desenvolvedor, aplicando boas práticas e criando so
 - Provided technical support for hardware and software issues  
 - Delivered remote and on-site troubleshooting  
 - Improved client satisfaction through clear communication and fast resolution  
-
----
-
-## 💻 Featured Projects
-
-### 🚗 [Car Sales Website](#)
-A responsive vehicle catalog site built using HTML, CSS, and JavaScript.  
-Features:
-- Dynamic search filters by brand and price  
-- Clean and responsive UI design (mobile-first)  
-- Practical showcase of front-end skills  
 
 ---
 
